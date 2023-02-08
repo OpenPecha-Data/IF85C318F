@@ -1,0 +1,51 @@
+id: 100af00f2a81485fa1d1f12b39ee2d6d
+annotation_type: index
+revision: '00001'
+annotations:
+  91cb940bd4e84dbf9c628b5ea7d33ee0:
+    base: C5CE.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 26
+    - title: Preface
+      span:
+        start: 27
+        end: 36
+    - title: 'Chapter I: Dhātunirdeśa'
+      span:
+        start: 37
+        end: 22147
+    - title: 'Chapter II: Indriyanirdeśa'
+      span:
+        start: 22148
+        end: 70750
+    - title: 'Chapter III: Lokanirdeśa'
+      span:
+        start: 70751
+        end: 125379
+    - title: 'Chapter IV: Karmanirdeśa'
+      span:
+        start: 125380
+        end: 182345
+    - title: 'Chapter V: Anuśayanirdeśa'
+      span:
+        start: 182346
+        end: 210440
+    - title: 'Chapter VI: Mārgapudgalanirdeśa'
+      span:
+        start: 210441
+        end: 216237
+    - title: 'Chapter VII: Jñānanirdeśa'
+      span:
+        start: 216238
+        end: 220714
+    - title: 'Chapter VIII: Samāpattinirdeśa'
+      span:
+        start: 220715
+        end: 223849
+    - title: 'Chapter IX: Conclusions'
+      span:
+        start: 223850
+        end: 224498

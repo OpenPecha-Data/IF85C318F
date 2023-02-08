@@ -1,0 +1,16 @@
+id: IF85C318F
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:01:43.979808
+last_modified: 2023-02-08 16:01:43.979905
+source_metadata:
+  title: 'Vasubandhu: Abhidharmakośabhāṣya'
+  language: zh
+bases:
+  C5CE:
+    base_file: C5CE.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
